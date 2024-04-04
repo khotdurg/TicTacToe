@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645fd21d-5160-47cf-9c25-72f97d56798d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/Dhoka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/MereSath.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dhoka/file2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dhoka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dhoka/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "calculator",
+    "git-widget-placeholder": "interestCalculator",
     "last_opened_file_path": "C:/Dhoka",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712054382828</updated>
       <workItem from="1712054383867" duration="351000" />
-      <workItem from="1712055702998" duration="2484000" />
+      <workItem from="1712055702998" duration="5930000" />
+      <workItem from="1712200868707" duration="6024000" />
     </task>
     <servers />
   </component>
